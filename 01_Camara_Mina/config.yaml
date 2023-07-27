@@ -1,0 +1,7 @@
+path: /Users/lucpe/OneDrive/Escritorio/TwinViz/P1/Mineria/Data/Images/to_train
+train: images
+val: images
+
+#Clases
+names:
+  0: Nail
