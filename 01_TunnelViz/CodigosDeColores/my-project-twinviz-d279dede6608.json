@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-twinviz",
+  "private_key_id": "d279dede66081b8612c92a9e3c01ab0f8dce9aa5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDxh1eLQVTvq9WG\nscpswDo8VFkMLAisdu/oTwowBxQQWg1N/hgiDR9ckTAMyS92Ztoromi1NBmsMS+D\nDe8kiBc2Wkb6eOUjSXiHHWCUUSZtoOtwfAQZ/ddbaqGVEmOQSjU0oUIW4VXHHCgr\n3mrcqGV88pvVmqSd0pX/3iuNiseqx9zyaZEHMN4RsK/t3w5EWd8hBLjAQor6esNH\nY4Q2Qa8brm79TN4FwB6d1or+GTMu6B3PBjtNCp6OUqnvqXqBSWmaqa4LD3Pvv3xS\nkSIiV+S90eQEpIdpoCxInLuMuc47Z38Ta38GpIqL3lEfbxVXlXAZ/u6Yegj+pPGr\nNumXisVhAgMBAAECggEAO8ZmpKi1GCHbVRwQQIzsfLzVUv1c4i4HXuOc3lkKHqfi\nzhAaMec0gUjPbwKlk/SNfyoRJvNvfR2pKBKdQlnKAOIj2d5suyh2Q15CZkKVM6GV\nUz/mFfasQ0wnFEk6Sd4Lv+w++oGnJIFz8bN4mAa3I065wYolvod9Jxd5iOy1UK7u\nC2ZtXwgXM4CeEMgA2SWpeop4IO65DrPn9uJh78OeIZ8CBrp6yzi052RbNKN1ohK3\nLuP1Nan/PE3O9lS/nXsaR35wBsG3yeUURBoE7fiL8ILGVGhkmo99zHyqcGMAyVql\nXXRWd6g+EcpFodLB+037QWUXByykMj2cXcdGVm0jaQKBgQD4qU1tpb66MnDRHguf\n7NJykO9xeZTqgkqCVek5R8rH+t6xKGS7wYq8sCFdQarNns6fBBjgpbFAV3EKby52\nv66ciTmAh5XTgOvuI3j4tsUa8J/WN8xP6nFXh+K5sci5Hor22MTETz6LfRTGYDZ8\nvFdQdSToOZC8kdLIRqsIcwnnJQKBgQD4qCaJBNpMqbkD65yS0rH1YvN7u+eHVeI5\nt76C/fiKwnCewBKPOXXA4V5sW2ha8q9/UduaoUz+0Hg3gqGzaCoKMitwwYgnl8dY\nJ39+5U/J81lDN2k8MXCgblRc5Lp4C7i/X/3lEkjDAlAc8p8m/PVukDGLomILS+RL\nkthRJZW+jQKBgQC4d5BzKSQmqUi8OZfSGjO8vfyDp/hrSCDSM72CutmaJWeS8S5Z\ngyjS9a6qqg5137vUh4uVDBZEbxny7awAeA6nHb3EtdDWSKu9zB7wE1aBt8Q7fMVa\n+8b9clcl/tezTQ82NHU0VL1HaZFB4RpKysXTcDPi+uF+oodF//bdm8na6QKBgAGC\nk+lVHDZG+ZaqgaLqoKYK2cuwknFh9iO/l+qXvECreZ+dLv+rq6lmNPqXe4TB4Ir3\nZkwEGsGZZoF/y5eZVFgHgfgHVNpYs583bjDJF7j0P2CHH5579mEjCmQeB3vfJloT\nLSmM+OAmTXI/jvPfqWXofkSI0eubpGFJHQMxJT2pAoGAWy0KEDNOUa+4Lc6qKcOX\nysRZh+jFiagcnJHkRQel8UxhKaGSKHOZAJjuc3qejvuSQXe7jj1A2l5Ad7VWS2fN\njk4sVvmhQCcnPso7DVhfnv1oU/SDPAupc8wEEGotVxN3PB/UHn70Gwu8S93p29Xl\ngsTXCc/gBUqe0NLev/5KBv0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "twinviz-service@my-project-twinviz.iam.gserviceaccount.com",
+  "client_id": "103734695459231189353",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/twinviz-service%40my-project-twinviz.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
