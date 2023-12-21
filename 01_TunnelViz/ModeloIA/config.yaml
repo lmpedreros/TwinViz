@@ -1,0 +1,7 @@
+path: /Users/lucpe/OneDrive/Escritorio/TwinViz/placas
+train: train/images
+val: val/images
+
+#Classes
+names:
+  0: Planchuela
